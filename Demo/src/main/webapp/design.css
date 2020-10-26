@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.form-box
+{
+width:380px;
+height: 480px;
+background:black;
+position: relative;
+margin: 6% auto;
+background: #fff;
+padding: 5px;	
+	
+	
+}
